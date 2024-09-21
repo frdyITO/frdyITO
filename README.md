@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @frdyITO
+Hola! soy un programador de la empresa ITOESTE
 
 <!---
 frdyITO/frdyITO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
